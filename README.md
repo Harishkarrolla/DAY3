@@ -1,1 +1,4 @@
 # DAY3
+The SELECT statement in SQL is used to retrieve specific data from a database. It allows users to choose which columns they want to display from a table.
+To filter the data and retrieve only the rows that meet certain conditions,the WHERE clause is used. This helps in selecting records based on specific criteria, such as retrieving G_status whose grade is A. Once the relevant data is selected, the ORDER BY clause can be applied to sort the results in either ascending or descending order based on one or more columns.
+The LIMIT clause is used to restrict the number of rows returned in the result set. This is useful when the user wants to see only a specific number of records, such as the top 5 highest scores or the first few entries in a list. Together, these commands help in effectively querying, filtering, sorting, and limiting the data from a database as needed.
